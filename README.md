@@ -2,6 +2,7 @@
 
 AutoViz AI is a premium, modern data visualization and analytics dashboard built on Streamlit. It allows you to transform raw datasets (CSV or Excel) into high-quality interactive 3D/2D plots or static publication-ready charts using plain English prompts, automatic type-aware recommendations, and customizable color themes. It also features a built-in SQL console, unsupervised ML modeling (K-Means, PCA projections), and descriptive analytics.
 
+# Live link : https://lightautoviz.streamlit.app/
 ---
 
 ## 🌟 Key Features
