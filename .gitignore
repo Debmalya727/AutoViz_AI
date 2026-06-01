@@ -1,0 +1,39 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python Bytecode and Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Project Generated Outputs
+outputs/
+*.html
+*.png
+
+# Streamlit Local Files
+.streamlit/
+
+# IDE Settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Environment Variables
+.env
+.env.local
+
+# OS Specific
+.DS_Store
+Thumbs.db
